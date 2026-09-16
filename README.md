@@ -25,7 +25,7 @@
 
 ## 使用方法
 
-1. 从 [Releases](https://github.com/mango6i/iOS-AutoTap/releases/latest) 下载最新的 `AutoTap_vX.Y.Z.ipa`。
+1. 从 [Releases](https://github.com/mango6i/iOS-AutoTap/releases/latest) 下载最新的 `AutoTap_vxxx.ipa`。
 2. 使用 TrollStore 安装并打开 AutoTap。
 3. 选择单点、多点或录制模式，完成脚本配置。
 4. 开启悬浮层，将数字目标拖到需要点击的位置。
@@ -36,12 +36,6 @@
 导出的脚本默认保存到“文件”应用中的“我的 iPhone/AutoTap”目录。导入时会优先打开该目录，也可以从其他文件夹选择兼容的脚本文件。
 
 ## 发布说明
-
-本仓库仅用于发布 AutoTap 成品和版本说明，不上传项目源码。Release 附件统一命名为：
-
-```text
-AutoTap_vX.Y.Z.ipa
-```
 
 GitHub 会为每个标签自动生成 `Source code (zip)` 和 `Source code (tar.gz)`，它们只包含本仓库的说明文件，不是 AutoTap 应用源码。普通用户只需下载 `.ipa` 文件。
 

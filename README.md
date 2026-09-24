@@ -60,7 +60,7 @@ AutoTap 提供单点、多点、点击录制和手势录制四种模式，支持
 
 - [查看版本说明](https://github.com/mango6i/iOS-AutoTap/releases/tag/v1.0.3)
 - [下载 AutoTap_v1.0.3.ipa](https://github.com/mango6i/iOS-AutoTap/releases/download/v1.0.3/AutoTap_v1.0.3.ipa)
-- SHA-256：`B968A94947755078CC41F70A62E670E05EA8E9034FCBDDE8D2E0E6E23258F7DC`
+- SHA-256：`11E958B52E7E29EB34E55A25309CE352D39690CF88C606193865F454E8E05ABC`
 
 ## 发布内容说明
 

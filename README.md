@@ -8,7 +8,7 @@ AutoTap 提供单点、多点、点击录制和手势录制四种相互独立的
 > **AutoTap 必须使用 TrollStore（巨魔商店）安装。**
 > 跨进程悬浮窗、全局录制和真实触摸模拟依赖 TrollStore 提供的系统权限。普通自签、企业签名及其他安装方式不受支持，核心功能可能无法运行。
 
-[下载最新版本](https://github.com/mango6i/iOS-AutoTap/releases/latest) · [直接下载 AutoTap v1.0.3](https://github.com/mango6i/iOS-AutoTap/releases/download/v1.0.3/AutoTap_v1.0.3.ipa) · [查看 v1.0.3 说明](https://github.com/mango6i/iOS-AutoTap/releases/tag/v1.0.3)
+[查看 v1.0.3 版本说明](https://github.com/mango6i/iOS-AutoTap/releases/tag/v1.0.3) · [直接下载 AutoTap_v1.0.3.ipa](https://github.com/mango6i/iOS-AutoTap/releases/download/v1.0.3/AutoTap_v1.0.3.ipa) · [查看历史版本](https://github.com/mango6i/iOS-AutoTap/releases)
 
 ## 四种工作模式
 

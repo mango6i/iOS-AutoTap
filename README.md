@@ -16,6 +16,18 @@ AutoTap 提供单点、多点、点击录制和手势录制四种相互独立的
 
 [查看 v1.0.3 版本说明](https://github.com/mango6i/iOS-AutoTap/releases/tag/v1.0.3) · [直接下载 AutoTap_v1.0.3.ipa](https://github.com/mango6i/iOS-AutoTap/releases/download/v1.0.3/AutoTap_v1.0.3.ipa) · [查看历史版本](https://github.com/mango6i/iOS-AutoTap/releases)
 
+## 界面与功能预览
+
+以下图片根据当前界面与功能绘制，属于 **AI 示意图，非真机截图**；实际显示以设备上的应用为准。
+
+### 首页 · 浅色与深色
+
+![AutoTap 首页浅色与深色界面示意](docs/images/autotap-home-preview.png)
+
+### 四种模式 · 悬浮控制
+
+![AutoTap 单点、多点、点击录制与手势录制功能示意](docs/images/autotap-features-preview.png)
+
 ## 四种工作模式
 
 | 模式 | 用途 |
